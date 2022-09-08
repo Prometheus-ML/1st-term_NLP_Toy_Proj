@@ -13,3 +13,7 @@
 - WhenToMeet : <https://www.when2meet.com/?16271022-iMRqx>
 
 - GitHub
+
+## Result
+
+<https://github.com/sooking87/NLP_Toy_Proj/blob/master/fine_tunning.ipynb>
