@@ -16,4 +16,4 @@
 
 ## Result
 
-<https://github.com/sooking87/NLP_Toy_Proj/blob/master/fine_tunning.ipynb>
+<https://github.com/Prometheus-ML/1st-term_NLP_Toy_Proj/blob/main/fine_tunning.ipynb>
